@@ -59,7 +59,7 @@ input.addEventListener("input", () => {
 let card_destino = [
   {
     "id": 1,
-    "imagen": 'medias/imagenes/Producto/LosRoques.PNG',
+    "imagen": './medias/imagenes/Producto/LosRoques.PNG',
     "nombre": "Arhipielago de Los Roques",
     "pagina": "Ir a la pagina..."
   },
