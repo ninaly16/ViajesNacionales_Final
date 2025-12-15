@@ -32,6 +32,6 @@ document.getElementById("formLogin").addEventListener("submit", function(e) {
     localStorage.setItem("usuarioLogueado", JSON.stringify(usuarioEjemplo));
 
     // Redirigir a la página principal
-    window.location.href = "index.html";
-    window.location.href = "paquetes.html";
+    window.location.href = "./index.html";
+    window.location.href = "./paquetes.html";
 });

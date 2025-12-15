@@ -125,7 +125,7 @@ if (usuario) {
     `;
 } else {
     zonaLogin.innerHTML = `
-        <li><a href="/ingresar.html">Ingresar</a></li>
+        <li><a href="ingresar.html">Ingresar</a></li>
     `;
 }
 
