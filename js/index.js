@@ -59,37 +59,37 @@ input.addEventListener("input", () => {
 let card_destino = [
   {
     "id": 1,
-    "imagen": '/medias/imagenes/Producto/LosRoques.PNG',
+    "imagen": 'medias/imagenes/Producto/LosRoques.PNG',
     "nombre": "Arhipielago de Los Roques",
     "pagina": "Ir a la pagina..."
   },
   {
     "id": 2,
-    "imagen": '/medias/imagenes/Producto/Salto Angel3.PNG',
+    "imagen": 'medias/imagenes/Producto/Salto Angel3.PNG',
     "nombre": "Salto Angel",
     "pagina": "Ir a la pagina..."
   },
   {
     "id": 3,
-    "imagen": '/medias/imagenes/Producto/GRanSabana.PNG',
+    "imagen": 'medias/imagenes/Producto/GRanSabana.PNG',
     "nombre": "Gran Sabana",
     "pagina": "Ir a la pagina..."
   },
   {
     "id": 4,
-    "imagen": '/medias/imagenes/Producto/Maracaibo6.PNG',
+    "imagen": 'medias/imagenes/Producto/Maracaibo6.PNG',
     "nombre": "Maracaibo",
     "pagina": "Ir a la pagina..."
   },
   {
     "id": 5,
-    "imagen": '/medias/imagenes/Producto/Morocoy.PNG',
+    "imagen": 'medias/imagenes/Producto/Morocoy.PNG',
     "nombre": "Morocoy.PNG",
     "pagina": "Ir a la pagina..."
   },
   {
     "id": 6,
-    "imagen": '/medias/imagenes/Producto/Colonia Tovar.PNG',
+    "imagen": 'medias/imagenes/Producto/Colonia Tovar.PNG',
     "nombre": "Colonia Tovar",
     "pagina": "Ir a la pagina..."
   },      
