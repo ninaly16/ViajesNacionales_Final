@@ -33,5 +33,4 @@ document.getElementById("formLogin").addEventListener("submit", function(e) {
 
     // Redirigir a la página principal
     window.location.href = "./index.html";
-    window.location.href = "./paquetes.html";
 });
